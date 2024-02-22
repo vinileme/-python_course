@@ -9,3 +9,4 @@ elif entrada == 'sair':
     print('Você saiu do sistema')
 else:
     print('Você não digitou entrar e nem sair.')
+    
